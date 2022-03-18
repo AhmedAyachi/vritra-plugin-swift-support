@@ -1,7 +1,7 @@
 import Foundation;
 
 
-class Template:Plugin {
+class Template:TemplatePlugin {
 
     @objc(coolAlert:)
     func coolAlert(command:CDVInvokedUrlCommand){
