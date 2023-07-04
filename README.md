@@ -10,7 +10,7 @@
 
   
 
-This [Cordova plugin](https://www.npmjs.com/package/cordova-plugin-swift-support) adds Swift support to your iOS project.
+This [Cordova plugin](https://github.com/AhmedAyachi/cordova-plugin-swift-support) adds Swift support to your iOS project.
 
 Based on the [cordova-plugin-add-swift-support](https://github.com/akofman/cordova-plugin-add-swift-support) project.
 Defines a CordovaPlugin class that facilitate Callback usage :
