@@ -1,6 +1,6 @@
 
 
-class TemplatePlugin:CDVPlugin {
+class CordovaPlugin:CDVPlugin {
 
     //Object callback
     func success(_ command:CDVInvokedUrlCommand,_ message:[AnyHashable:Any]?,_ keep:NSNumber=false){

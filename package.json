@@ -1,18 +1,19 @@
 {
-  "name": "cordova-plugin-template",
+  "name": "cordova-plugin-swift-support",
   "version": "1.0.0",
   "main": "www/index.js",
   "types": "index.d.ts",
-  "description": "cordova custom plugin template",
+  "description": "cordova plugin for adding swift support",
   "cordova": {
-    "id": "cordova-plugin-template",
+    "id": "cordova-plugin-swift-support",
     "platforms": [
-      "android"
+      "ios"
     ]
   },
   "keywords": [
     "ecosystem:cordova",
-    "cordova-android"
+    "cordova-ios",
+    "ios","swift","swift-support"
   ],
   "author": "Ahmed Ayachi",
   "license": "ISC"
