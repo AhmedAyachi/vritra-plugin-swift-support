@@ -1,7 +1,3 @@
-[![npm version](https://badge.fury.io/js/cordova-plugin-swift-support.svg)](https://badge.fury.io/js/cordova-plugin-swift-support) [![Build Status](https://travis-ci.org/akofman/cordova-plugin-swift-support.svg?branch=master)](https://travis-ci.org/akofman/cordova-plugin-swift-support) [![npm](https://img.shields.io/npm/dm/cordova-plugin-swift-support.svg)]()
-
-  
-
 # cordova-plugin-swift-support
 
   
