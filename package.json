@@ -1,11 +1,11 @@
 {
-  "name": "cordova-plugin-swift-support",
-  "version": "1.0.0",
+  "name": "corella-plugin-swift-support",
+  "version": "0.0.0",
   "main": "www/index.js",
   "types": "index.d.ts",
-  "description": "cordova plugin for adding swift support",
+  "description": "customized cordova-corella plugin for adding swift support",
   "cordova": {
-    "id": "cordova-plugin-swift-support",
+    "id": "corella-plugin-swift-support",
     "platforms": [
       "ios"
     ]
@@ -16,5 +16,5 @@
     "ios","swift","swift-support"
   ],
   "author": "Ahmed Ayachi",
-  "license": "ISC"
+  "license": "MIT"
 }
