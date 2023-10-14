@@ -1,11 +1,11 @@
 {
-  "name": "corella-plugin-swift-support",
-  "version": "0.0.0",
+  "name": "wurm-plugin-swift-support",
+  "version": "0.0.1",
   "main": "www/index.js",
   "types": "index.d.ts",
-  "description": "customized cordova-corella plugin for adding swift support",
+  "description": "customized wurm plugin for adding swift support",
   "cordova": {
-    "id": "corella-plugin-swift-support",
+    "id": "wurm-plugin-swift-support",
     "platforms": [
       "ios"
     ]
