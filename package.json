@@ -1,11 +1,11 @@
 {
-  "name": "wurm-plugin-swift-support",
+  "name": "vritra-plugin-swift-support",
   "version": "0.0.1",
   "main": "www/index.js",
   "types": "index.d.ts",
-  "description": "customized wurm plugin for adding swift support",
+  "description": "customized vritra plugin for adding swift support",
   "cordova": {
-    "id": "wurm-plugin-swift-support",
+    "id": "vritra-plugin-swift-support",
     "platforms": [
       "ios"
     ]
